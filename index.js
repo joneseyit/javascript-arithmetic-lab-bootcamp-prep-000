@@ -1,5 +1,5 @@
 function makeInt(number){
-  return parseInt(number)
+  return parseInt(number, 10)
 }
 
 function preserveDecimal(number){
